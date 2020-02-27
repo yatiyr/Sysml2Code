@@ -1,0 +1,2 @@
+timeStep	1	;
+endTime	200	;
