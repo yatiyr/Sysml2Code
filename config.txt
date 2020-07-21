@@ -1,0 +1,2 @@
+timeStep	0.1	;
+endTime	18	;
